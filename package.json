@@ -1,0 +1,22 @@
+{
+  "name": "luckybet_sample",
+  "version": "0.0.1",
+  "description": "Sample code for [IOST Demo](http://developers.iost.io/docs/en/5-lucky-bet/LuckyBet.html)",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzafactory-examples/luckybet_sample.git"
+  },
+  "keywords": [ "IOST", "demo", "LuckeyBet" ],
+  "author": "IOST Demo",
+  "bugs": {
+    "url": "https://github.com/pizzafactory-examples/luckybet_sample/issues"
+  },
+  "homepage": "https://github.com/pizzafactory-examples/luckybet_sample#readme",
+  "devDependencies": {
+    "@types/iost-contract": "^3.4.0"
+  }
+}
